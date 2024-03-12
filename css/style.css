@@ -1,0 +1,32 @@
+header {
+	width: 300px;
+}
+
+.title {
+	width: 300px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-size: 40px;
+}
+
+.author {
+	font-weight: 100;
+	font-style: italic;
+	margin-top: 5px;
+	margin-bottom: 30px;
+	font-size: 24px;
+}
+
+.paragraph {
+	font-size: 18px;
+}
+
+.from {
+	font-size: 16px;
+}
+
+.from i {
+	font-style: italic;
+}
