@@ -1,0 +1,3 @@
+npm install --save-dev html-validate
+
+find . -name "*.html" -exec npm exec html-validate {} \;
